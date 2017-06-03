@@ -1,0 +1,6 @@
+Movie Name:   KONG: SKULL ISLAND
+Start time:   20:00
+Screen NO.:   Screen2
+Ticket Type:  Adult
+Sit Position: D row & 1 column
+Ticket ID:    44333344
